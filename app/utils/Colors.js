@@ -1,0 +1,9 @@
+export const black = '#000000';
+export const white = '#FFFFFF';
+export const grayWhite = '#F6F6F6';
+export const grayBack = '#F4F4F4';
+export const backgroundApp = '#1B1C1A';
+export const titleApp = '#12b9E8';
+export const blue = '#003366';
+export const red = '#DE1739';
+export const orange = '#FF681F'

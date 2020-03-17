@@ -1,0 +1,1 @@
+export const URL = 'https://ventadirecta-api-dot-gnp-vdi-pro.appspot.com/_ah/api/gnp/v1/catalogo/';
